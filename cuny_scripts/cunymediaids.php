@@ -38,6 +38,7 @@ $shows = [
 	"Nonstop New York" => "NSNY",
     "Nueva York" => "NUEV",
     "One to One" => "OTOO",
+    "Point of View CUNY" => "POVC",
     "Shades of US" => "SHUS",
 	"Simply Science" => "SMSP",
     "Sustainability Matters" => "STMT",
