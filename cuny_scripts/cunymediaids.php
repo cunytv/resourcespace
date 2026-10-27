@@ -24,6 +24,7 @@ $shows = [
     "CUNY Uncut" => "CNNT",
     "CUNY Laureates" => "CNLR",
     "CUNY Specials" => "SPEC",
+    "Digital Series Greater Good" => "DSGG",
 	"DiverseCity" => "DVCT",
     "EdCast" => "EDCA",
     "Frame By Frame" => "FRBF",
